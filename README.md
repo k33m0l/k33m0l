@@ -22,9 +22,20 @@
 </div>
 
 <h2 align="center">📖 Stuff I learn 📖</h2>
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+<div>
+    <img align="right" src="https://github.com/k33m0l/k33m0l/blob/main/gifs/learning.gif">
+    <img align="left" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+    I use it everyday, but it feels like I'm learning something new everyday.<hr>
+    <img align="left" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+    Newbie, trying to make a full switch.<hr>
+    <img align="left" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+    I use Arch, btw<hr>
+    <img align="left" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+    Learning Cybersec, mostly API and Cloud security.
+</div>
 
 <h2 align="center">✨ Stuff I like ✨</h2>
+<h3>See above, below, all over the page...</h3>
+<div style="text-align: center;">
+    <img width="100%" src="https://github.com/k33m0l/k33m0l/blob/main/gifs/look.gif">
+</div>
