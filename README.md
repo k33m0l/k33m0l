@@ -35,7 +35,7 @@
 </div>
 
 <h2 align="center">✨ Stuff I like ✨</h2>
-<h3>See above, below, all over the page...</h3>
+<h3>See above, below, and all over the page...</h3>
 <div style="text-align: center;">
     <img width="100%" src="https://github.com/k33m0l/k33m0l/blob/main/gifs/look.gif">
 </div>
