@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <p>
-        I'm a Java/Kotlin backend developer from Hungary 👋 with a strong interest in DevOps and Cloud technologies, and I'm proud to hold AWS SA Practitioner and Developer certifications. Throughout my work, I primarily focus on developing microservices and their associated APIs, as well as implementing CI/CD deployments. I'll have to put one more sentence here to make the gif appear correctly, I'm bad at CSS... typical backend dev 😅
+        I'm a Java/Kotlin backend developer from Hungary 👋 with a strong interest in DevOps and Cloud technologies, and I'm proud to hold AWS SA Practitioner and Developer certifications. Throughout my work, I primarily focus on developing microservices and their associated APIs, as well as implementing CI/CD pipelines. I'll have to put one more sentence here to make the gif appear correctly, I'm bad at CSS... typical backend dev 😅
     </p>
 </div>
 
@@ -25,7 +25,7 @@
 <div>
     <img align="right" src="https://github.com/k33m0l/k33m0l/blob/main/gifs/learning.gif">
     <img align="left" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-    I use it everyday, but it feels like I'm learning something new everyday.<hr>
+    I use it every day, but it feels like I'm learning something new every day.<hr>
     <img align="left" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
     Newbie, trying to make a full switch.<hr>
     <img align="left" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge">
