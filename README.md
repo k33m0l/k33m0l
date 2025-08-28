@@ -30,8 +30,8 @@
     Newbie, trying to make a full switch.<hr>
     <img align="left" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge">
     I use Arch, btw<hr>
-    <img align="left" src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine&style=for-the-badge">
-    Learning Godot and Game Development.
+    <p align="left">¯\_(ツ)_/¯</p>
+    Whatever I think of when I wake up tomorrow 
 </div>
 
 <h2 align="center">✨ Stuff I like ✨</h2>
