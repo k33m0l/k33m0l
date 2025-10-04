@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <p>
-        I'm a Java/Kotlin backend developer from Hungary 👋 with a strong interest in DevOps and Cloud technologies, and I'm proud to hold AWS SA Practitioner and Developer certifications. Throughout my work, I primarily focus on developing microservices and their associated APIs, as well as implementing CI/CD pipelines. I'll have to put one more sentence here to make the gif appear correctly, I'm bad at CSS... typical backend dev 😅
+        I'm a Java/Kotlin backend developer from Hungary 👋 with a strong interest in DevOps and Cloud technologies, and I'm proud to hold the AWS DevOps Pro certification along with a few Associate certs. Throughout my work, I primarily focus on developing microservices and their associated APIs, as well as implementing CI/CD pipelines. I'll have to put one more sentence here to make the gif appear correctly, I'm bad at CSS... typical backend dev 😅
     </p>
 </div>
 
