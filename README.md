@@ -26,8 +26,8 @@
     <img align="right" src="https://github.com/k33m0l/k33m0l/blob/main/gifs/learning.gif">
     <img align="left" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
     I use it every day, but it feels like I'm learning something new every day.<hr>
-    <img align="left" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-    Newbie, trying to make a full switch.<hr>
+    <img align="left" src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge">
+    Still learning.<hr>
     <img align="left" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge">
     I use Arch, btw<hr>
     <p align="left">¯\_(ツ)_/¯</p>
