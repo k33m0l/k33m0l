@@ -1,3 +1,4 @@
+alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 kitten icat -n --place 25x25@0x0 --scale-up --align left ~/.config/fastfetch/cc.gif | fastfetch -c config.jsonc --logo-width 30 --raw -
 
 # If you come from bash you might have to change your $PATH.
